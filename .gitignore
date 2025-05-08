@@ -1,0 +1,22 @@
+# Системні файли macOS
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Середовище
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+*.log
+*.zip
